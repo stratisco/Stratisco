@@ -1,7 +1,7 @@
-i like to code
+Im Ryan and I like to code. Its that simple
 
-its that simple
+I like Java, C, Python, PHP, *and HTML/CSS*
 
-check out my website https://waterserver.sytes.net/
+##
 
-IT HAS HTTPSSSSSSSSSSS ^_^
+Check out my file storage website [waterserver](https://waterserver.sytes.net/)
