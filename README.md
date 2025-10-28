@@ -14,12 +14,15 @@
 
 <br>
 
-I'm Ryan and I like to code. Its that simple
+# I'M RYAN
+I like to code. *It's that simple*
 
 I like Java, C, Python, PHP, *and HTML/CSS* (pretty much anything ive used before)
 
 Im also a big fan of clean ui designs
 
 ##
-
-Check out my brilliant file storage website [waterserver](https://waterserver.sytes.net/)
+> [!IMPORTANT]
+> I have a cool file storage website  
+> You should totally check it out  
+> Its called [Water Server](https://waterserver.sytes.net/)
